@@ -140,7 +140,6 @@ I'm currently **available for freelance projects** — SaaS platforms, AI integr
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://bedonassef02.github.io/portfolio/)
-[![Hire on Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015f9fa637fe776013)
 [![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bedonassef71@gmail.com)
 
 </div>
