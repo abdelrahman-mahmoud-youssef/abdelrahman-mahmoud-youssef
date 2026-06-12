@@ -6,7 +6,6 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-080812?style=for-the-badge&logoColor=white)](https://bedonassef02.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedonassef02/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bedonassef71@gmail.com)
 
@@ -139,7 +138,6 @@ I'm currently **available for freelance projects** — SaaS platforms, AI integr
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://bedonassef02.github.io/portfolio/)
 [![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bedonassef71@gmail.com)
 
 </div>
