@@ -7,7 +7,6 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-080812?style=for-the-badge&logoColor=white)](https://bedonassef02.github.io/portfolio/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015f9fa637fe776013)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedonassef02/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bedonassef71@gmail.com)
 
