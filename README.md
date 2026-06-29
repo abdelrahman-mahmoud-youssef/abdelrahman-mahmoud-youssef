@@ -1,147 +1,137 @@
-<div align="center">
+# Abdelrahman Mahmoud Ali Youssef
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrahman%20Mahmoud&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20and%20AI%20Automation%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+### Backend / Full-Stack Engineer — building SaaS platforms, marketplaces, integrations, and AI-powered backend systems.
 
-</div>
+📍 Giza, Egypt · ✈️ Available to relocate to UAE or Saudi Arabia
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedonassef02/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bedonassef71@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=bedonassef02&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdelrahmanmahmoud.com-1F3864?style=flat-square)](https://abdelrahmanmahmoud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mahmoud-youssef/)
+[![Email](https://img.shields.io/badge/Email-hello@abdelrahmanmahmoud.com-2E75B6?style=flat-square&logo=maildotru&logoColor=white)](mailto:hello@abdelrahmanmahmoud.com)
 
 ---
 
-## 👋 About Me
+## About
 
-I'm a **Full-Stack Developer & AI Automation Specialist** based in Egypt with **2+ years** of production experience building SaaS platforms, AI-powered tools, and automated workflows for clients worldwide.
+Backend-focused full-stack engineer with experience building production **SaaS platforms**, **multi-tenant systems**, and **third-party integrations**. I work across the full backend lifecycle — data model, REST APIs, payment and notification flows, webhooks, and queue-driven background jobs — with a focus on reliability, idempotency, and clean, maintainable code.
 
-My sweet spot is the **intersection of traditional development and modern automation** — I can architect a robust NestJS microservice one day and build an n8n workflow that replaces 20 hours of manual work the next, using both code and no-code platforms to maximize speed without sacrificing quality.
-
-- 🏢 **Currently:** Full-Stack Developer & AI Specialist @ **Corporate Synergy Solutions**
-- 🚀 **Freelancing:** Active on Upwork with **100% Job Success Rate** & 5-star reviews
-- 🎯 **Focus:** SaaS platforms · AI Agents · Workflow Automation · API Architecture
-- 📍 **Location:** Egypt (available for remote work globally)
+My core stack is **Node.js, NestJS, and TypeScript**, plus **PHP/Laravel**, on **PostgreSQL, MySQL, and Redis**. I also design **AI-powered backend systems** — content pipelines, RAG-grounded agents, and automation workflows — wired into the same production-grade infrastructure.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ⚙️ Backend & Infrastructure
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BullMQ-FF4B4B?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-1F2937?style=flat-square)
+![SSE](https://img.shields.io/badge/Server--Sent_Events-1F2937?style=flat-square)
 
-### 🎨 Frontend & UI
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
+**Databases & ORMs**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
 
-### 🤖 Automation, No-Code & AI
+**Queues & Background Jobs**
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+![pg-boss](https://img.shields.io/badge/pg--boss-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Scheduled Jobs](https://img.shields.io/badge/Scheduled_Jobs-1F2937?style=flat-square)
+![Outbox Pattern](https://img.shields.io/badge/Outbox_Pattern-1F2937?style=flat-square)
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xano-5464F3?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-10B981?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Voice_AI-8B5CF6?style=flat-square&logo=ai&logoColor=white"/>
-</p>
+**Architecture**
+![Multi-tenant SaaS](https://img.shields.io/badge/Multi--tenant_SaaS-6D28D9?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-6D28D9?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-6D28D9?style=flat-square)
+![Idempotency](https://img.shields.io/badge/Idempotency-6D28D9?style=flat-square)
+![HMAC Webhooks](https://img.shields.io/badge/HMAC_Webhooks-6D28D9?style=flat-square)
 
----
+**Integrations**
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Paymob](https://img.shields.io/badge/Paymob-F6931E?style=flat-square)
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+![Apple/Google Wallet](https://img.shields.io/badge/Apple%2FGoogle_Wallet-000000?style=flat-square&logo=applewallet&logoColor=white)
+![AI/LLM APIs](https://img.shields.io/badge/AI%2FLLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
 
-## 🚀 What I Build
-
-| Type | Description |
-|------|-------------|
-| **SaaS Platforms** | Multi-tenant apps with auth, payments, scheduling, and real-time features |
-| **AI Agents** | Voice receptionists, RAG pipelines, intelligent chatbots, content engines |
-| **Workflow Automation** | n8n & Zapier pipelines that eliminate manual work and sync your tools |
-| **Rapid MVPs** | Full-featured backends shipped in days using Xano — no code bloat |
-| **API Architecture** | Scalable NestJS/Laravel APIs with microservices and queue systems |
-| **Full-Stack Apps** | End-to-end platforms from database schema to polished React UI |
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)
 
 ---
 
-## 📈 Impact & Results
+## What I Build
 
-<div align="center">
-
-| Metric | Result |
-|--------|--------|
-| ⚡ Development Speed | **50% faster** delivery with Xano rapid backend |
-| 📅 Scheduling Accuracy | **Zero double-bookings** across 1,000+ daily appointments |
-| 📁 Files Processed | **10,000+** digital assets with automated metadata extraction |
-| 🤖 AI Estimation | **80% faster** job quoting via AI photo analysis |
-| ⭐ Upwork Rating | **5.0 / 5.0** with 100% Job Success Rate |
-
-</div>
+- **SaaS platforms** — multi-tenant apps with authentication, payments, and real-time features
+- **Marketplaces** — vendor onboarding, payments, escrow, and shared infrastructure
+- **Booking systems** — availability engines, scheduling, and financial back-office
+- **Loyalty platforms** — digital wallet cards, rewards, and partner APIs
+- **API integration middleware** — webhooks, OAuth, field mapping, and bidirectional sync
+- **AI automation backends** — content pipelines, RAG-grounded agents, and workflow automation
+- **Payment & notification systems** — Stripe/Paymob flows, multi-channel delivery (email, SMS, WhatsApp)
+- **Queue-driven workflows** — background jobs, retries, dead-letter handling, and outbox patterns
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
+### Nujoomy — Multi-Tenant Loyalty SaaS *(own product)*
+**Live:** https://app.nujoomy.com
+`NestJS` · `Next.js` · `PostgreSQL` · `Redis` · `BullMQ` · `Apple/Google Wallet` · `Paymob` · `WhatsApp Cloud API`
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bedonassef02&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bedonassef02&theme=tokyonight&layout=compact&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117"/>
+Multi-tenant loyalty platform issuing digital loyalty cards to Apple Wallet and Google Wallet, with QR staff scanning, rewards, a versioned partner API, multiple authentication planes, and queue-based background processing.
 
-</div>
+### Bookra — Salon & Coaching Booking SaaS
+**Live:** https://getbookra.com
+`NestJS` · `Next.js` · `Prisma` · `PostgreSQL` · `Stripe` · `WhatsApp` · `Google Calendar`
 
-<div align="center">
+Booking SaaS with an availability engine, staff scheduling, and a full financial back-office — invoices, refunds, commissions, payouts, and revenue reporting — anchored on a single-writer ledger, with payments, notifications, and background queues.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bedonassef02&theme=tokyonight&hide_border=true&ring=6366f1&fire=8b5cf6&currStreakLabel=a78bfa&background=0d1117" alt="GitHub Streak"/>
+### Phantoms — AI Content Automation Engine
+`NestJS` · `TypeScript` · `PostgreSQL` · `Redis` · `BullMQ`
 
-</div>
+AI-powered backend automating short-form video production end to end — script generation, rendering workflows, approval flows, multi-platform publishing, and analytics — built on a queue-based pipeline with retries, circuit breakers, and multiple AI/social integrations behind a clean provider-abstraction layer.
 
-<div align="center">
+### TRC Integration Middleware
+`PHP 8.2` · `Laravel 12` · `MySQL` · `Queues` · `Docker`
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bedonassef02&custom_title=Abdelrahman's%20Contribution%20Graph&bg_color=0d1117&color=6366f1&line=8b5cf6&point=a78bfa&area_color=1e1b4b&title_color=ffffff&area=true&hide_border=true)
-
-</div>
+Legal-tech integration middleware connecting Litify/Salesforce, Filevine, and Zendesk with webhooks, OAuth 2.0, HMAC verification, idempotent processing, bidirectional status sync, audit trails, and PHI/PII-safe logging.
 
 ---
 
-## 🤝 Let's Work Together
+## Current Focus
 
-I'm currently **available for freelance projects** — SaaS platforms, AI integrations, automation workflows, and API architecture.
+Backend architecture and production reliability across multi-tenant SaaS, API integrations, queue-driven systems, and AI-powered backend workflows.
+
+---
+
+## Get in Touch
+
+- **Portfolio:** https://abdelrahmanmahmoud.com
+- **Email:** hello@abdelrahmanmahmoud.com
+- **LinkedIn:** https://www.linkedin.com/in/abdelrahman-mahmoud-youssef/
+- **GitHub:** https://github.com/abdelrahman-mahmoud-youssef
+
+---
 
 <div align="center">
 
-[![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bedonassef71@gmail.com)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-mahmoud-youssef&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=1F3864&icon_color=2E75B6&text_color=24292e&bg_color=ffffff" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-mahmoud-youssef&layout=compact&hide_border=true&title_color=1F3864&text_color=24292e&bg_color=ffffff" alt="Top Languages" />
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
