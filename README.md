@@ -106,11 +106,6 @@ Booking SaaS with an availability engine, staff scheduling, and a full financial
 
 AI-powered backend automating short-form video production end to end — script generation, rendering workflows, approval flows, multi-platform publishing, and analytics — built on a queue-based pipeline with retries, circuit breakers, and multiple AI/social integrations behind a clean provider-abstraction layer.
 
-### TRC Integration Middleware
-`PHP 8.2` · `Laravel 12` · `MySQL` · `Queues` · `Docker`
-
-Legal-tech integration middleware connecting Litify/Salesforce, Filevine, and Zendesk with webhooks, OAuth 2.0, HMAC verification, idempotent processing, bidirectional status sync, audit trails, and PHI/PII-safe logging.
-
 ---
 
 ## Current Focus
